@@ -1,0 +1,32 @@
+html{
+display: flex;
+/* justify-content: center; */
+flex-direction: column;
+background-color: rgb(230, 206, 176);
+height: 150vmin;
+width: 150vmin;
+}
+
+header{
+display: flex;
+justify-content: space-between;
+}
+
+.me{
+justify-content: center;
+}
+
+h1{
+justify-content: center;
+font-size: 10vmin;
+}
+
+.my_morda{
+justify-content: center;
+width: 20vmin;
+height: 20vmin;
+}
+
+body{
+    /* display: flex; */
+}
