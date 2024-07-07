@@ -1,0 +1,78 @@
+html{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(138, 134, 134);
+}
+body{
+    background-color: aliceblue;
+    padding: 40px;
+    width: 1100px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    height: 60px;
+    background-color: rgb(116, 112, 112);
+}
+
+.logo_img{
+height: 50px;
+width: 50px;
+}
+.anchor_navigation{
+    display: flex;
+}
+
+.ul_header{
+    display: flex;
+    gap: 10px;
+}
+.li_header{
+    list-style-type: none;
+}
+.a_header{
+    text-decoration: none;
+}
+.main{}
+h1{
+    display: flex;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(116, 112, 112);
+}
+.My_contacts{
+    display: flex;
+    gap: 20px;
+}
+
+.phone_number{
+    display: flex;
+    align-items: center;
+}
+
+.mail{
+    display: flex;
+    align-items: center;
+}
+
+.git_hab{
+    display: flex;
+    align-items: center;
+}
+
+.scholl_contacts{
+    height: 60px;
+    width: 120px;
+}
+
+.Rsschool_logo{
+    height: 60px;
+    width: 120px;
+}
